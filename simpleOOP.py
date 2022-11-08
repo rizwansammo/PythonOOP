@@ -1,4 +1,4 @@
-# 1
+# 2.1
 class DataType:
     def __init__(self, name, value):
         self.name = name
